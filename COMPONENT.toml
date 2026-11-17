@@ -3,7 +3,7 @@ name = "SigmaOS-ammo"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ammo component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
